@@ -1,6 +1,6 @@
 # Nombiembre/Dotfiles
 
-![Desktop Image](showcase/desktop.png)
+![Desktop Image](showcase/Desktop.png)
 
 ## About
 
