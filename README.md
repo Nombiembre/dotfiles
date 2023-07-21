@@ -9,7 +9,7 @@
 - Status Bar: polybar
 - Notifications: ![dunst (custom fork)](https://github.com/k-vernooy/dunst/tree/progress-styling)
 - Terminal: kitty
-- Launcher: ![Rofi](https://github.com/Davatorium/rofi), based on [Eric Murphy configuration](https://youtu.be/TutfIwxSE_s)
+- Launcher: Rofi, based on [Eric Murphy configuration](https://youtu.be/TutfIwxSE_s)
 
   
 This set of dotfiles is based on the repository [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles), and I extend my gratitude for their work and contributions, which served as a starting point for my own personalized environment.
