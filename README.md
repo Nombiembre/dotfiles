@@ -22,7 +22,7 @@ This is for my personal use to clone for easy setup on virtual machines. These d
 ![Rofi Image](showcase/rofi.png)
 
 ### Set Target
-![No Target](showcase/no_target.png)![Target](showcase/target.png)
+![No Target](showcase/no_target.png)\n![Target](showcase/target.png)\n
 The module operates with a terminal command format: settarget "parameter1 parameter2". To use this command in the terminal, you need to add the following function to your .bashrc, .zshrc, or the respective shell configuration file:
 
 ```sh
