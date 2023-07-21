@@ -3,10 +3,10 @@
 ![Desktop Image](showcase/Desktop.png)
 
 ## About
-
+- Distro: Arch
 - Window Manager: bspwm
 - Compositor: picom
-- Status Bar: ![polybar](https://github.com/polybar/polybar)
+- Status Bar: polybar
 - Notifications: ![dunst (custom fork)](https://github.com/k-vernooy/dunst/tree/progress-styling)
 - Terminal: kitty
 - Launcher: ![Rofi](https://github.com/Davatorium/rofi), based on [Eric Murphy configuration](https://youtu.be/TutfIwxSE_s)
