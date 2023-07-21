@@ -6,12 +6,11 @@
 
 - Window Manager: bspwm
 - Compositor: picom
-- Status Bar: [polybar](https://github.com/polybar/polybar)
-- Icon Fonts: [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts), custom png
-- Notifications: [dunst (custom fork)](https://github.com/k-vernooy/dunst/tree/progress-styling)
+- Status Bar: ![polybar](https://github.com/polybar/polybar)
+- Notifications: ![dunst (custom fork)](https://github.com/k-vernooy/dunst/tree/progress-styling)
 - Terminal: kitty
-- Launcher: [Rofi](https://github.com/Davatorium/rofi), based on [Eric Murphy configuration](https://youtu.be/TutfIwxSE_s)
-- File manager: Nautilus
+- Launcher: ![Rofi](https://github.com/Davatorium/rofi), based on [Eric Murphy configuration](https://youtu.be/TutfIwxSE_s)
+
   
 This set of dotfiles is based on the repository [k-vernooy/dotfiles](https://github.com/k-vernooy/dotfiles), and I extend my gratitude for their work and contributions, which served as a starting point for my own personalized environment.
  
@@ -21,3 +20,10 @@ This is for my personal use to clone for easy setup on virtual machines. These d
 
 ### Rofi
 ![Rofi Image](showcase/rofi.png)
+
+## To Do's
+- [ ] Powermenu.
+- [ ] Update polybar's private IP address module to open internet configuration on click.
+- [ ] Music player module.
+- [ ] Themes selector.
+- [ ] Enhance the date module in polybar to display a calendar on click.
