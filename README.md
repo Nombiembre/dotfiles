@@ -1,5 +1,7 @@
 # Nombiembre/Dotfiles
 
+![Desktop Image](showcase/desktop.png)
+
 ## About
 
 - Window Manager: bspwm
@@ -18,4 +20,4 @@ This is for my personal use to clone for easy setup on virtual machines. These d
 ## Showcase
 
 ### Rofi
-![Rofi](showcase/rofi.png)
+![Rofi Image](showcase/rofi.png)
