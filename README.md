@@ -22,7 +22,7 @@ This is for my personal use to clone for easy setup on virtual machines. These d
 ![Rofi Image](showcase/rofi.png)
 
 ### Set Target
-![No Target](showcase/no_target.png)\n![Target](showcase/target.png)\n
+![No Target](showcase/no_target.png)<br>![Target](showcase/target.png)<br>
 The module operates with a terminal command format: settarget "parameter1 parameter2". To use this command in the terminal, you need to add the following function to your .bashrc, .zshrc, or the respective shell configuration file:
 
 ```sh
@@ -39,7 +39,7 @@ In addition to the function, there is a script called set_target.sh, residing in
 
 Credits:
 
-The settarget command and the set_target.sh script were created by the original author, ![s4vitar](https://github.com/s4vitar). The implementation details and tutorial can be found in this ![Pastebin:](https://pastebin.com/FABzmBP9).
+The settarget command and the set_target.sh script were created by the original author, ![s4vitar](https://github.com/s4vitar). The implementation details and tutorial can be found in this ![Pastebin](https://pastebin.com/FABzmBP9).
 
 
 ## To Do's
